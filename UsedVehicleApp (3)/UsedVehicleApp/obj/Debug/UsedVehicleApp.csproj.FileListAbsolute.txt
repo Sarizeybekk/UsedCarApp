@@ -1,0 +1,33 @@
+C:\Users\Sulta\source\repos\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe.config
+C:\Users\Sulta\source\repos\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe
+C:\Users\Sulta\source\repos\UsedVehicleApp\bin\Debug\UsedVehicleApp.pdb
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.AssemblyReference.cache
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.Properties.Resources.resources
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.GenerateResource.cache
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.exe
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.pdb
+C:\Users\Sulta\source\repos\UsedVehicleApp\obj\Debug\UsedVehicleApp.Form1.resources
+C:\Users\aemel\Desktop\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe.config
+C:\Users\aemel\Desktop\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe
+C:\Users\aemel\Desktop\UsedVehicleApp\bin\Debug\UsedVehicleApp.pdb
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.AssemblyReference.cache
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.Form1.resources
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.Properties.Resources.resources
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.GenerateResource.cache
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.exe
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.pdb
+C:\Users\aemel\Desktop\UsedVehicleApp\obj\Debug\UsedVehicleApp.Ilan.resources
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe.config
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\bin\Debug\UsedVehicleApp.exe
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\bin\Debug\UsedVehicleApp.pdb
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.AssemblyReference.cache
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.Form1.resources
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.Ilan.resources
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.Properties.Resources.resources
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.GenerateResource.cache
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.exe
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.pdb
+C:\Users\Sulta\Downloads\UsedVehicleApp (3)\UsedVehicleApp\obj\Debug\UsedVehicleApp.MusteriGiris.resources
