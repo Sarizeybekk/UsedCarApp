@@ -1,5 +1,4 @@
-# UsedCarApp
-According to the scenario, draw the UML diagram containing the object-oriented infrastructure of the system (objects, relations between objects, behaviors) and code it by considering SOLID design principles and Singleton design pattern. You can also consider the behavior details as prototypes, so you don't have to write the full detailed contents of the functions.
+
 # 🚗 UsedCarApp - Object-Oriented Used Car Sales System
 
 The **UsedCarApp** is a system developed based on a given scenario to manage used car sales efficiently. The project involves designing and implementing an object-oriented infrastructure while adhering to **SOLID principles** and incorporating the **Singleton design pattern**.
